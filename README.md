@@ -14,3 +14,4 @@ Study notes, lab logs, practice exam scores, and Cisco NetAcad badges for the IT
 3. **Prioritization**: Determine impact vs. urgency (Low, Medium, High, Critical).
 4. **Work Notes**: Keep precise, detailed troubleshooting logs for team visibility.
 5. **Resolution**: Verify the fix with the user before closing out the ticket.
+<img width="431" height="834" alt="1a639e3b-8009-4368-abf0-643b9aec997a" src="https://github.com/user-attachments/assets/59213764-025d-4993-9d83-36a0f3b7c809" />
