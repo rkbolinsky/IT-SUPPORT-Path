@@ -1,20 +1,3 @@
-# IT-SUPPORT-Path
-Study notes, lab logs, practice exam scores, and Cisco NetAcad badges for the IT Support learning path.
-## Cisco NetAcad 1.2.3 - Customer Types & Ticketing Systems
-
-### Communication Strategies
-* **Frustrated / Angry Users**: Practice active listening, keep a calm tone, don't interrupt, and set clear expectations.
-* **Non-Technical Users**: Use plain English, avoid technical jargon/acronyms, and guide them step-by-step.
-* **Tech-Savvy Users**: Respect their input and details, but logically verify basic steps.
-* **Talkative Users**: Politely acknowledge their comments, then gently steer the conversation back to troubleshooting.
-
-### IT Ticketing System Workflow
-1. **Intake / Logging**: Capture the user's name, contact info, and clear problem symptoms.
-2. **Categorization**: Tag the issue appropriately (*Hardware*, *Network*, *Access/Identity*).
-3. **Prioritization**: Determine impact vs. urgency (Low, Medium, High, Critical).
-4. **Work Notes**: Keep precise, detailed troubleshooting logs for team visibility.
-5. **Resolution**: Verify the fix with the user before closing out the ticket.
-<img width="431" height="834" alt="1a639e3b-8009-4368-abf0-643b9aec997a" src="https://github.com/user-attachments/assets/59213764-025d-4993-9d83-36a0f3b7c809" />
 # IT Customer Support & Service Desk Operations
 
 **Author:** Ronald Keith Bolinsky  
@@ -32,10 +15,10 @@ This repository documents foundational IT support practices, troubleshooting met
 ## Verified Credentials & Certifications
 
 ### Cisco Networking Academy: IT Customer Support Basics
-- **Issuer:** Cisco Networking Academy
-- **Awarded To:** Ronald Bolinsky
-- **Certificate ID:** `a54ead96-c903-4d0b-b4fa-eae7ec380154`
-- **Date Awarded:** September 25, 2026
+- **Issuer:** Cisco Networking Academy[span_0](start_span)[span_0](end_span)
+- **Awarded To:** Ronald Bolinsky[span_1](start_span)[span_1](end_span)
+- **Certificate ID:** `a54ead96-c903-4d0b-b4fa-eae7ec380154`[span_2](start_span)[span_2](end_span)
+- **Date Awarded:** September 25, 2026[span_3](start_span)[span_3](end_span)
 - **Badge Verification:** [Credly Verified Badge](https://www.credly.com/badges/52e2f584-4b44-4513-aa46-6ea27cc7bd20)
 
 ---
@@ -76,3 +59,25 @@ This repository documents foundational IT support practices, troubleshooting met
 2. Log all diagnostic steps, tests, and resolution specifics in the ticketing system.
 3. If the solution resolves a novel or recurring issue, submit a draft entry to the internal Knowledge Base repository.
 
+---
+
+## Course Notes & Module Artifacts
+
+### Cisco NetAcad 1.2.3: Customer Types & Ticketing Systems
+
+#### Communication Strategies
+* **Frustrated / Angry Users:** Practice active listening, keep a calm tone, don't interrupt, and set clear expectations.
+* **Non-Technical Users:** Use plain English, avoid technical jargon/acronyms, and guide them step-by-step.
+* **Tech-Savvy Users:** Respect their input and details, but logically verify basic steps.
+* **Talkative Users:** Politely acknowledge their comments, then gently steer the conversation back to troubleshooting.
+
+#### IT Ticketing System Workflow
+1. **Intake / Logging:** Capture the user's name, contact info, and clear problem symptoms.
+2. **Categorization:** Tag the issue appropriately (*Hardware*, *Network*, *Access/Identity*).
+3. **Prioritization:** Determine impact vs. urgency (Low, Medium, High, Critical).
+4. **Work Notes:** Keep precise, detailed troubleshooting logs for team visibility.
+5. **Resolution:** Verify the fix with the user before closing out the ticket.
+
+<p align="center">
+  <img width="431" height="834" alt="Cisco NetAcad Progress Artifact" src="https://github.com/user-attachments/assets/59213764-025d-4993-9d83-36a0f3b7c809" />
+</p>
