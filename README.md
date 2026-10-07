@@ -22,8 +22,14 @@ This repository documents foundational IT support practices, troubleshooting met
 * **Awarded To:** Ronald Bolinsky
 * **Certificate ID:** a54ead96-c903-4d0b-b4fa-eae7ec380154
 * **Date Awarded:** September 25, 2026
-* **Badge Verification:** [![IT Customer Support Basics Badge](https://images.credly.com/size/340x340/images/e7e9e51c-8b1b-4d7c-8646-953e5e4fafe7/image.png)](YOUR_CREDLY_BADGE_URL)
-
+* **Badge Verification:** <p align="left">
+  <a href="https://www.credly.com" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/e7e9e51c-8b1b-4d7c-8646-953e5e4fafe7/image.png" width="150" height="150" alt="Cisco IT Customer Support Basics Badge" />
+  </a>
+</p>
+<p>
+  <em>Badge Verification:</em> <a href="https://www.credly.com" target="_blank">View Credential on Credly</a>
+</p>
 ---
 
 ## Core Competencies & Knowledge Domains
